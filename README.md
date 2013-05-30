@@ -205,3 +205,5 @@ The Lungo-Angular-Bridge (LAB) is licensed under free commercial and open source
 application development, and a paid commercial license for OEM uses.
 
 See LICENSE.txt for license.
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/fc8fab291780e74347174e024a03e167 "githalytics.com")](http://githalytics.com/centralway/lungo-angular-bridge)
