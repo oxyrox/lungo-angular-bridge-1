@@ -1,5 +1,13 @@
-Lungo Angular Bridge ![](https://travis-ci.org/centralway/lungo-angular-bridge.png)
-====
+# ARCHIVED - Jan 14th, 2014
+
+The Lungo Angular Bridge is no longer under active development by Centralway.
+
+> If you wish to do AngularJS on mobile we can strongly recommend that you consider the Ionic Framework: http://ionicframework.com/
+
+
+
+##Lungo Angular Bridge ![](https://travis-ci.org/centralway/lungo-angular-bridge.png)
+
 Linking [Lungo](http://lungo.tapquo.com) to [Angular](http://angularjs.org) to bring you mobile awesomeness
 
 #### What is Lungo?
